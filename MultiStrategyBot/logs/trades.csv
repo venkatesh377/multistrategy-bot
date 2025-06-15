@@ -1,3 +1,0 @@
-timestamp,pair,action,price,balance,pnl,sl,tp,exit_reason
-15-06-2025 12:51,TEST-INR,BUY,100,1000,0,97,105,ENTRY
-15-06-2025 12:51,TEST-INR,SELL,96,960,-40,97,105,SIMULATED STOP-LOSS
